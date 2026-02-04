@@ -1,0 +1,12 @@
+{
+  "employees": [
+    {
+      "id": 1770220135640,
+      "name": "Pragathi P",
+      "email": "123@gmail.com",
+      "role": "Lead SDE",
+      "department": "IT",
+      "status": "Active"
+    }
+  ]
+}
